@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ama-rk-ha-n-daV.github.io/resource-hub/sitemap.xml
